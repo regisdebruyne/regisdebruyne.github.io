@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Régis Debruyne"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/mmi_88x88.png"
   bio    : "Evolutionary biologist with big chunks of elephants and mammoths inside."
   links:
     - label: "Website"
