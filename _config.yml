@@ -105,7 +105,7 @@ defaults:
   # _research-projects
   - scope:
       path: ""
-      type: portfolio
+      type: research-projects
     values:
       layout: single
       author_profile: false
