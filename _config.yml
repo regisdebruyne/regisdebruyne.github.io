@@ -17,11 +17,7 @@ title: Elephant Stone
 title separator: "_"
 subtitle: "Evolution, genomes and elephants/mammoths"
 logo: "/assets/images/mmi_88x88.png"
-email: "reg.mnhn@gmail.com"
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Personal website of Regis Debruyne: evolutionary biology, natural history of the elephantids (mammoths and elephants), and paleogenetics"
 twitter_username: MammothReg
 github_username: regisdebruyne
 minimal_mistakes_skin: default
@@ -65,11 +61,12 @@ author:
   avatar : "/assets/images/mmi_88x88.png"
   bio    : "Evolutionary biologist with big chunks of elephants and mammoths inside."
   location : "Paris, France"
+  email: "reg.mnhn@gmail.com"
   links:
     - label: "French Museum of Natural history"
       icon: "fas fa-fw fa-link"
       url: "https://mnhn.fr"
-    - label: "Twitter"
+    - label: "MammothReg"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MammothReg"
 
