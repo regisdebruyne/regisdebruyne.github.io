@@ -73,7 +73,7 @@ author:
 teaser: /assets/images/500x300.png
 
 collections:
-  portfolio:
+  research-projects:
     output: true
     permalink: /:collection/:path/
 
@@ -102,7 +102,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _research-projects
   - scope:
       path: ""
       type: portfolio
