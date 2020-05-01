@@ -1,6 +1,6 @@
 ---
 title: "Out of America:  ancient DNA evidence for a new world origin of late quaternary woolly mammoths"
-excerpt_separator: "<!--more-->"
+excerpt: "This paper explores the contribution of North American mammoths to the overall phylogeography of the beringian woolly mammoths<!--more-->"
 categories:
   - Publications
 tags:
