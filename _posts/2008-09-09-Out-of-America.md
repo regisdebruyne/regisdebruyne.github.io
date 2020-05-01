@@ -23,7 +23,7 @@ Although the iconic mammoth of the Late Pleistocene, the woolly mammoth (Mammuth
 To undertake this task, we analyzed mtDNA from a large data set consisting of mammoth samples from across Holarctica (n = 160) and representing most of radiocarbon time. Our evidence shows that, during the terminal Pleistocene, haplotypes originating in and characteristic of New World populations replaced or succeeded those endemic to Asia and western Beringia. Also, during the Last Glacial Maximum, mammoth populations do not appear to have suffered an overall decline in diversity, despite differing responses on either side of the Bering land bridge. In summary, the "Out-of-America" hypothesis holds that the dispersal of North American woolly mammoths into other parts of Holarctica created major phylogeographic structuring within Mammuthus primigenius populations, shaping the last phase of their evolutionary history before their demise.
 
 ## Reference
-**Citation**
+**Citation** Out of America: ancient DNA evidence for a new world origin of late quaternary woolly mammoths. Curr Biol 2008 Sep 9;18(17):1320-6. 
 **DOI** https://doi.org/10.1016/j.cub.2008.07.061
 **HAL**
 {: .notice}
