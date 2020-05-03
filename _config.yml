@@ -63,7 +63,7 @@ author:
   location : "Paris, France"
   email: "reg.mnhn@gmail.com"
   links:
-    - label: "French Museum of Natural history"
+    - label: "French Museum of nat. History"
       icon: "fas fa-fw fa-link"
       url: "https://mnhn.fr"
     - label: "MammothReg"
