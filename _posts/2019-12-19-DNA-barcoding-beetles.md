@@ -10,10 +10,12 @@ tags:
   - Arthropods
   - DNA barcoding
 sidebar:
-  - title: "Role"
+  - title: "Research project"
+    text: "General Molecular Systematics"
+  - title: "Role in the project"
     text: "Experimental assistant"
-  - title: "Responsibilities"
-    text: "Took part to the experimental design and development. Particpated to the training of the main student"
+  - title: "Contributio to the paper
+    text: "Took part to the design and development. Participated to the experimental training of the main operator."
 ---
 
 ## Abstract
