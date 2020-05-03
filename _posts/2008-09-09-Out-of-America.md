@@ -7,11 +7,9 @@ tags:
   - Mammoths
   - Phylogenetics
   - Beringia
-  - Late Pleistocene
+  - Pleistocene
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Project main researcher"
   - title: "Responsibilities"
     text: "data analysis, and paper redaction. Took part to the generation of the data "
@@ -24,6 +22,6 @@ To undertake this task, we analyzed mtDNA from a large data set consisting of ma
 
 ## Reference
 **Citation** Out of America: ancient DNA evidence for a new world origin of late quaternary woolly mammoths. Curr Biol 2008 Sep 9;18(17):1320-6. 
-**DOI** https://doi.org/10.1016/j.cub.2008.07.061
+**DOI** 10.1016/j.cub.2008.07.061
 **HAL**
 {: .notice}
