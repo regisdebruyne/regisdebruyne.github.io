@@ -12,7 +12,6 @@ tags:
 sidebar:
   - title: "Publication"
     text: "publication type"
-    text: "language"
   - title: "Research project"
       text: "Project name"
   - title: "Role in the project"
