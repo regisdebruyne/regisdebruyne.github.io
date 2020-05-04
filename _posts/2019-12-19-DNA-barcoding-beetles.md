@@ -16,9 +16,9 @@ sidebar:
   - title: "Research project"
       text: "Project name"
       text: "General Molecular Systematics"
-      title: "Role in the project"
+      text: "Role in the project"
       text: "Experimental assistant"
-      title: "Contribution to the paper"
+      text: "Contribution to the paper"
       text: "Took part to the design and development. Participated to the experimental training of the main operator."
 ---
 
