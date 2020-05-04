@@ -11,11 +11,9 @@ tags:
   - DNA barcoding
 sidebar:
   - title: "Publication"
-    children:
     - title: "publication type"
     - title: "language"
   - title: "Research project"
-    children: 
     - title: "Project name"
       text: "General Molecular Systematics"
     - title: "Role in the project"
