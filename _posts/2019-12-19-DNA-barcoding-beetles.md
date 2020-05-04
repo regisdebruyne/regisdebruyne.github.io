@@ -13,11 +13,11 @@ sidebar:
   - title: "Publication"
     text: "publication type"
   - title: "Research project"
-      text: "Project name"
+    text: "Project name"
   - title: "Role in the project"
-      text: "Experimental assistant"
+    text: "Experimental assistant"
   - title: "Contribution to the paper"
-      text: "Took part to the design and development. Participated to the experimental training of the main operator."
+    text: "Took part to the design and development; Participated to the experimental training of the main operator"
 ---
 
 ## Abstract
