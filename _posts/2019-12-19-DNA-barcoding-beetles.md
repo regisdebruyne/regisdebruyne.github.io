@@ -11,7 +11,7 @@ tags:
   - DNA barcoding
 sidebar:
   - title: "Publication"
-    image: ""
+    image: "/assets/images/fee_pps_cover.png"
     text: "publication type"
   - title: "Research project"
     text: "Project name"
