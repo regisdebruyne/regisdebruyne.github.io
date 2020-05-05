@@ -9,6 +9,13 @@ tags:
   - NGS technologies
   - Arthropods
   - DNA barcoding
+header:
+  overlay_image: "/assets/images/fee_pps_cover.png"
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 sidebar:
   - title: "Publication"
     image: "/assets/images/fee_pps_cover.png"
