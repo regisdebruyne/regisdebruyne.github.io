@@ -10,8 +10,8 @@ tags:
   - Arthropods
   - DNA barcoding
 header:
-  image: "/assets/images/fee_pps_cover.png"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: "/assets/images/sire_et_al_fig1.jpg"
+  caption: "Photo credit: [**Sire et al. fig. 1**]"
   actions:
     - label: "More Info"
       url: "https://unsplash.com"
